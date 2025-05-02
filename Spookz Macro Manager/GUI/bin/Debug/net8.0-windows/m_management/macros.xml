@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMacro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Macro>
+    <Name>sexo (Key: Alt+2)</Name>
+    <Steps>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asdawdasdawdasdawdasdawdasd</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Press Key</Action>
+        <Key>Space</Key>
+      </MacroStep>
+    </Steps>
+  </Macro>
+</ArrayOfMacro>

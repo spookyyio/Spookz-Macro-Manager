@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMacro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Macro>
+    <Name>asdasd (Key: Alt+2)</Name>
+    <Steps>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asdasd</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asdasd</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asdasd</Text>
+      </MacroStep>
+    </Steps>
+  </Macro>
+  <Macro>
+    <Name>asdasd (Key: Alt+2)</Name>
+    <Steps>
+      <MacroStep>
+        <Action>Press Key</Action>
+        <Key>A</Key>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asd</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>asd</Text>
+      </MacroStep>
+    </Steps>
+  </Macro>
+</ArrayOfMacro>
