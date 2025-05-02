@@ -1,0 +1,29 @@
+﻿<Window x:Class="GUI.CreateMacro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="CreateMacro" MinHeight="500" MaxHeight="500" MinWidth="400" MaxWidth="400">
+    <Grid>
+        <ComboBox x:Name="action" HorizontalAlignment="Left" Margin="24,96,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="action_SelectionChanged">
+            <ComboBoxItem Content="Press Key"/>
+            <ComboBoxItem Content="Type"/>
+        </ComboBox>
+        <TextBox x:Name="MacroName" HorizontalAlignment="Left" Margin="24,42,0,0" TextWrapping="Wrap" Text="Insert name here..." VerticalAlignment="Top" MinWidth="145" MaxWidth="145" MaxHeight="17" TextChanged="MacroName_TextChanged"/>
+        <Label x:Name="NameText" Content="Macro name" HorizontalAlignment="Left" Margin="22,16,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="StepsList" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="24,186,92,155" SelectionChanged="StepsList_SelectionChanged"/>
+        <Label Content="Steps" HorizontalAlignment="Left" Margin="24,160,0,0" VerticalAlignment="Top"/>
+        <Label Content="Add step" HorizontalAlignment="Left" Margin="22,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,0.555"/>
+        <TextBox x:Name="TypeBlock" HorizontalAlignment="Left" Margin="24,142,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TypeBlock_TextChanged"/>
+        <Button x:Name="Movestep_UP" Content="Move UP" HorizontalAlignment="Left" Margin="314,188,0,0" VerticalAlignment="Top" Width="70" Click="Movestep_UP_Click" FontSize="12"/>
+        <Button x:Name="Movestep_DN" FontSize="11" Content="Move DOWN" HorizontalAlignment="Left" Margin="314,213,0,0" VerticalAlignment="Top" Width="70" Click="Movestep_DN_Click"/>
+        <Button x:Name="Step_DEL" Content="DELETE" HorizontalAlignment="Left" Margin="314,238,0,0" VerticalAlignment="Top" Width="70" Click="Step_DEL_Click"/>
+        <Button x:Name="Save_btn" Content="Save" HorizontalAlignment="Left" Margin="24,355,0,0" VerticalAlignment="Top" Width="77" Click="Save_btn_Click"/>
+        <Button x:Name="cancelbtn" Content="Cancel" HorizontalAlignment="Left" Margin="116,355,0,0" VerticalAlignment="Top" Width="73" Click="cancelbtn_Click"/>
+        <Button x:Name="addstepbtn" Content="Add Step" HorizontalAlignment="Left" Margin="188,96,0,0" VerticalAlignment="Top" Width="99" Click="addstepbtn_Click"/>
+        <Label Content="Text" HorizontalAlignment="Left" Margin="22,118,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

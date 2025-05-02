@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Macros>
+	<Macro Name="Open Notepad">
+		<Steps>
+			<Step>
+				<Action>PressKey</Action>
+				<Key>Win+R</Key>
+			</Step>
+			<Step>
+				<Action>Type</Action>
+				<Text>notepad</Text>
+			</Step>
+			<Step>
+				<Action>PressKey</Action>
+				<Key>Enter</Key>
+			</Step>
+		</Steps>
+	</Macro>
+</Macros>
