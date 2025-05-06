@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.IO;
 using System.Xml.Serialization;
+using System.Security.Cryptography.X509Certificates;
 
 namespace GUI
 {
@@ -45,15 +46,18 @@ namespace GUI
     public class Macro
     {
         public string Name { get; set; }
+        [XmlElement("MacroKey")]
+        public string MacroKey {  get; set; }
         public List<MacroStep> Steps { get; set; } = new List<MacroStep>();
     }
     public partial class CreateMacro : Window
     {
-
+        public event Action MacroSaved;
         public CreateMacro()
         {
             InitializeComponent();
             StepsList.ItemsSource = CurrentSteps;
+         
         }
 
         private void TypeBlock_TextChanged(object sender, TextChangedEventArgs e)
@@ -134,34 +138,34 @@ namespace GUI
         {
             try
             {
-                // Define the path to the macros.xml file in the application's base directory
+                // Define the path to the macros.xml file in the application's base directory  
                 string filePath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "macros.xml");
 
-                // Log the file path for debugging
+                // Log the file path for debugging  
                 MessageBox.Show($"Saving to: {filePath}", "Debug", MessageBoxButton.OK, MessageBoxImage.Information);
 
-                // Create a new Macro object
+                // Create a new Macro object  
                 var macro = new Macro
                 {
                     Name = MacroName.Text,
+                    MacroKey = macrokeyblock.Text, // Set the MacroKey property
                     Steps = CurrentSteps,
                 };
 
-                // Add the macro activation key
-                string macroKey = macrokeyblock.Text;
-                if (!string.IsNullOrEmpty(macroKey))
+                // Optionally include the macroKey in the Name for display purposes
+                if (!string.IsNullOrEmpty(macro.MacroKey))
                 {
-                    macro.Name += $" (Key: {macroKey})"; // Optionally include the key in the name
+                    macro.Name += $" (Key: {macro.MacroKey})";
                 }
 
-                // Serialize the macro to XML
+                // Serialize the macro to XML  
                 XmlSerializer serializer = new XmlSerializer(typeof(List<Macro>));
                 List<Macro> macros;
 
-                // Check if the file exists
+                // Check if the file exists  
                 if (File.Exists(filePath))
                 {
-                    // Read existing macros
+                    // Read existing macros  
                     using (FileStream fs = new FileStream(filePath, FileMode.Open))
                     {
                         macros = (List<Macro>)serializer.Deserialize(fs) ?? new List<Macro>();
@@ -169,26 +173,27 @@ namespace GUI
                 }
                 else
                 {
-                    // Initialize a new list if the file doesn't exist
+                    // Initialize a new list if the file doesn't exist  
                     macros = new List<Macro>();
                 }
 
-                // Add the new macro
+                // Add the new macro  
                 macros.Add(macro);
 
-                // Write the updated list back to the file
+                // Write the updated list back to the file  
                 using (FileStream fs = new FileStream(filePath, FileMode.Create))
                 {
                     serializer.Serialize(fs, macros);
                 }
 
-                // Notify the user and close the window
+                // Notify the user and close the window  
                 MessageBox.Show("Macro saved successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                MacroSaved?.Invoke();
                 this.Close();
             }
             catch (Exception ex)
             {
-                // Log the exception for debugging
+                // Log the exception for debugging  
                 MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }

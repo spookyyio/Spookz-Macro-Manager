@@ -66,3 +66,10 @@ C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\ob
 C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\GUI.pdb
 C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
 C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\bin\Debug\net8.0-windows\WindowsInput.dll
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\bin\Debug\net8.0-windows\Gma.System.MouseKeyHook.dll
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\bin\Debug\net8.0-windows\NLog.config
+C:\Users\fasan\Documents\GitHub\Spookz-Macro-Manager\Spookz Macro Manager\GUI\obj\Debug\net8.0-windows\GUI_Content.g.cs

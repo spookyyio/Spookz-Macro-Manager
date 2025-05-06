@@ -1,0 +1,1740 @@
+2025-05-05 22:16:43.5344|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:16:43.5423|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:16:43.5423|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:16:45.2590|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:45.2590|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:45.2590|INFO|GUI.MainWindow|No macro matched for key: D2
+2025-05-05 22:16:46.0252|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.0252|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.0252|INFO|GUI.MainWindow|No macro matched for key: D1
+2025-05-05 22:16:46.2430|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.2430|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.2430|INFO|GUI.MainWindow|No macro matched for key: D3
+2025-05-05 22:16:46.3780|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.3780|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.3780|INFO|GUI.MainWindow|No macro matched for key: D1
+2025-05-05 22:16:46.4630|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:46.4630|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:46.4630|INFO|GUI.MainWindow|No macro matched for key: D2
+2025-05-05 22:16:46.5460|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.5460|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.5460|INFO|GUI.MainWindow|No macro matched for key: D3
+2025-05-05 22:16:46.6691|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.6691|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:46.6691|INFO|GUI.MainWindow|No macro matched for key: D1
+2025-05-05 22:16:46.7720|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:46.7720|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:46.7720|INFO|GUI.MainWindow|No macro matched for key: D2
+2025-05-05 22:16:46.8210|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.8210|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:46.8210|INFO|GUI.MainWindow|No macro matched for key: D3
+2025-05-05 22:16:51.7081|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:51.7081|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:51.7081|INFO|GUI.MainWindow|No macro matched for key: D1
+2025-05-05 22:16:51.7881|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:51.7881|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:51.7881|INFO|GUI.MainWindow|No macro matched for key: D2
+2025-05-05 22:16:51.8792|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:51.8792|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:51.8792|INFO|GUI.MainWindow|No macro matched for key: D3
+2025-05-05 22:16:52.0162|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:52.0162|INFO|GUI.MainWindow|Key pressed: D1
+2025-05-05 22:16:52.0162|INFO|GUI.MainWindow|No macro matched for key: D1
+2025-05-05 22:16:52.0952|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:52.0952|INFO|GUI.MainWindow|Key pressed: D2
+2025-05-05 22:16:52.0952|INFO|GUI.MainWindow|No macro matched for key: D2
+2025-05-05 22:16:52.1490|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:52.1490|INFO|GUI.MainWindow|Key pressed: D3
+2025-05-05 22:16:52.1490|INFO|GUI.MainWindow|No macro matched for key: D3
+2025-05-05 22:16:56.4792|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:16:56.4792|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:16:56.4792|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:16:56.6232|INFO|GUI.MainWindow|Key pressed: D2, Alt
+2025-05-05 22:16:56.6232|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:16:56.6232|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:17:03.5783|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:17:03.5783|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:17:03.5783|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:17:03.6683|INFO|GUI.MainWindow|Key pressed: D2, Alt
+2025-05-05 22:17:03.6683|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:17:03.6683|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:17:05.5063|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:17:05.5063|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:17:05.5063|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:17:05.6093|INFO|GUI.MainWindow|Key pressed: D2, Alt
+2025-05-05 22:17:05.6093|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:17:05.6093|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:17:05.7915|INFO|GUI.MainWindow|Key pressed: D2, Alt
+2025-05-05 22:17:05.7915|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:17:05.7915|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:17:05.9733|INFO|GUI.MainWindow|Key pressed: D2, Alt
+2025-05-05 22:17:05.9733|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:17:05.9733|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:17:09.3454|INFO|GUI.MainWindow|Key pressed: LControlKey
+2025-05-05 22:17:09.3454|INFO|GUI.MainWindow|Key pressed: LControlKey
+2025-05-05 22:17:09.3454|INFO|GUI.MainWindow|No macro matched for key: LControlKey
+2025-05-05 22:17:09.4524|INFO|GUI.MainWindow|Key pressed: C, Control
+2025-05-05 22:17:09.4524|INFO|GUI.MainWindow|Key pressed: Ctrl+C, Control
+2025-05-05 22:17:09.4524|INFO|GUI.MainWindow|No macro matched for key: Ctrl+C, Control
+2025-05-05 22:17:10.0094|INFO|GUI.MainWindow|Key pressed: LControlKey
+2025-05-05 22:17:10.0094|INFO|GUI.MainWindow|Key pressed: LControlKey
+2025-05-05 22:17:10.0094|INFO|GUI.MainWindow|No macro matched for key: LControlKey
+2025-05-05 22:17:10.0934|INFO|GUI.MainWindow|Key pressed: V, Control
+2025-05-05 22:17:10.0934|INFO|GUI.MainWindow|Key pressed: Ctrl+V, Control
+2025-05-05 22:17:10.0934|INFO|GUI.MainWindow|No macro matched for key: Ctrl+V, Control
+2025-05-05 22:17:10.5854|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:10.5854|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:10.5854|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:17:10.7444|INFO|GUI.MainWindow|Key pressed: V
+2025-05-05 22:17:10.7444|INFO|GUI.MainWindow|Key pressed: V
+2025-05-05 22:17:10.7444|INFO|GUI.MainWindow|No macro matched for key: V
+2025-05-05 22:17:10.7984|INFO|GUI.MainWindow|Key pressed: A
+2025-05-05 22:17:10.7984|INFO|GUI.MainWindow|Key pressed: A
+2025-05-05 22:17:10.7984|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:17:10.9604|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:10.9604|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:10.9604|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:11.0194|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:11.0194|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:11.0194|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:17:11.3654|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:11.3654|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:11.3654|INFO|GUI.MainWindow|No macro matched for key: Back
+2025-05-05 22:17:11.5224|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:11.5224|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:11.5224|INFO|GUI.MainWindow|No macro matched for key: Back
+2025-05-05 22:17:11.7004|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:11.7004|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:11.7004|INFO|GUI.MainWindow|No macro matched for key: L
+2025-05-05 22:17:11.7394|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:11.7394|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:11.7394|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:11.7854|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:11.7854|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:11.7854|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:17:11.8184|INFO|GUI.MainWindow|Key pressed: T
+2025-05-05 22:17:11.8184|INFO|GUI.MainWindow|Key pressed: T
+2025-05-05 22:17:11.8184|INFO|GUI.MainWindow|No macro matched for key: T
+2025-05-05 22:17:11.8884|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:11.8884|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:11.8884|INFO|GUI.MainWindow|No macro matched for key: I
+2025-05-05 22:17:12.0074|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:12.0074|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:12.0074|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:17:12.0434|INFO|GUI.MainWindow|Key pressed: S
+2025-05-05 22:17:12.0434|INFO|GUI.MainWindow|Key pressed: S
+2025-05-05 22:17:12.0434|INFO|GUI.MainWindow|No macro matched for key: S
+2025-05-05 22:17:12.0994|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.0994|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.0994|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:17:12.2064|INFO|GUI.MainWindow|Key pressed: S
+2025-05-05 22:17:12.2064|INFO|GUI.MainWindow|Key pressed: S
+2025-05-05 22:17:12.2064|INFO|GUI.MainWindow|No macro matched for key: S
+2025-05-05 22:17:12.2489|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.2489|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.2489|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:12.3445|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.3445|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.3445|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:17:12.4514|INFO|GUI.MainWindow|Key pressed: V
+2025-05-05 22:17:12.4514|INFO|GUI.MainWindow|Key pressed: V
+2025-05-05 22:17:12.4514|INFO|GUI.MainWindow|No macro matched for key: V
+2025-05-05 22:17:12.5474|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:12.5474|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:12.5474|INFO|GUI.MainWindow|No macro matched for key: I
+2025-05-05 22:17:12.6244|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.6244|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.6244|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:12.7124|INFO|GUI.MainWindow|Key pressed: N
+2025-05-05 22:17:12.7124|INFO|GUI.MainWindow|Key pressed: N
+2025-05-05 22:17:12.7124|INFO|GUI.MainWindow|No macro matched for key: N
+2025-05-05 22:17:12.7794|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.7794|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:12.7794|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:12.8374|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.8374|INFO|GUI.MainWindow|Key pressed: Space
+2025-05-05 22:17:12.8374|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:17:12.9394|INFO|GUI.MainWindow|Key pressed: K
+2025-05-05 22:17:12.9394|INFO|GUI.MainWindow|Key pressed: K
+2025-05-05 22:17:12.9394|INFO|GUI.MainWindow|No macro matched for key: K
+2025-05-05 22:17:13.0264|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:13.0264|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:13.0264|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:13.1154|INFO|GUI.MainWindow|Key pressed: Y
+2025-05-05 22:17:13.1154|INFO|GUI.MainWindow|Key pressed: Y
+2025-05-05 22:17:13.1154|INFO|GUI.MainWindow|No macro matched for key: Y
+2025-05-05 22:17:13.3074|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:13.3074|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:13.3074|INFO|GUI.MainWindow|No macro matched for key: L
+2025-05-05 22:17:13.4574|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:13.4574|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:13.4574|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:17:13.5865|INFO|GUI.MainWindow|Key pressed: G
+2025-05-05 22:17:13.5865|INFO|GUI.MainWindow|Key pressed: G
+2025-05-05 22:17:13.5865|INFO|GUI.MainWindow|No macro matched for key: G
+2025-05-05 22:17:13.7665|INFO|GUI.MainWindow|Key pressed: G
+2025-05-05 22:17:13.7665|INFO|GUI.MainWindow|Key pressed: G
+2025-05-05 22:17:13.7665|INFO|GUI.MainWindow|No macro matched for key: G
+2025-05-05 22:17:13.8424|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:13.8424|INFO|GUI.MainWindow|Key pressed: E
+2025-05-05 22:17:13.8424|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:17:13.8824|INFO|GUI.MainWindow|Key pressed: R
+2025-05-05 22:17:13.8824|INFO|GUI.MainWindow|Key pressed: R
+2025-05-05 22:17:13.8824|INFO|GUI.MainWindow|No macro matched for key: R
+2025-05-05 22:17:14.0445|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:14.0445|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:14.0445|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:17:14.2894|INFO|GUI.MainWindow|Key pressed: LShiftKey
+2025-05-05 22:17:14.2894|INFO|GUI.MainWindow|Key pressed: LShiftKey
+2025-05-05 22:17:14.2894|INFO|GUI.MainWindow|No macro matched for key: LShiftKey
+2025-05-05 22:17:14.3544|INFO|GUI.MainWindow|Key pressed: D2, Shift
+2025-05-05 22:17:14.3544|INFO|GUI.MainWindow|Key pressed: Shift+D2, Shift
+2025-05-05 22:17:14.3544|INFO|GUI.MainWindow|No macro matched for key: Shift+D2, Shift
+2025-05-05 22:17:14.8095|INFO|GUI.MainWindow|Key pressed: T
+2025-05-05 22:17:14.8095|INFO|GUI.MainWindow|Key pressed: T
+2025-05-05 22:17:14.8095|INFO|GUI.MainWindow|No macro matched for key: T
+2025-05-05 22:17:14.8985|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:14.8985|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:14.8985|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:17:15.1427|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:15.1427|INFO|GUI.MainWindow|Key pressed: Back
+2025-05-05 22:17:15.1427|INFO|GUI.MainWindow|No macro matched for key: Back
+2025-05-05 22:17:15.2975|INFO|GUI.MainWindow|Key pressed: U
+2025-05-05 22:17:15.2975|INFO|GUI.MainWindow|Key pressed: U
+2025-05-05 22:17:15.2975|INFO|GUI.MainWindow|No macro matched for key: U
+2025-05-05 22:17:15.4705|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:15.4705|INFO|GUI.MainWindow|Key pressed: L
+2025-05-05 22:17:15.4705|INFO|GUI.MainWindow|No macro matched for key: L
+2025-05-05 22:17:15.6195|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:15.6195|INFO|GUI.MainWindow|Key pressed: I
+2025-05-05 22:17:15.6195|INFO|GUI.MainWindow|No macro matched for key: I
+2025-05-05 22:17:15.7355|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:15.7355|INFO|GUI.MainWindow|Key pressed: O
+2025-05-05 22:17:15.7355|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:17:15.7975|INFO|GUI.MainWindow|Key pressed: Tab
+2025-05-05 22:17:15.7975|INFO|GUI.MainWindow|Key pressed: Tab
+2025-05-05 22:17:15.7975|INFO|GUI.MainWindow|No macro matched for key: Tab
+2025-05-05 22:17:15.9045|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:15.9045|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:17:15.9045|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:18:54.3073|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:54.3073|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:54.4901|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:54.4901|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:54.6631|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:54.6631|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:54.8251|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:54.8251|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:54.9731|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:54.9731|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:55.1321|INFO|GUI.MainWindow|Key pressed: 2
+2025-05-05 22:18:55.1321|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:18:55.3291|INFO|GUI.MainWindow|Key pressed: Enter
+2025-05-05 22:18:55.3291|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:19:05.0962|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:19:05.0962|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:19:05.2782|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:05.2782|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:06.6433|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:19:06.6433|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:19:06.7742|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:06.7742|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:06.9803|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:06.9803|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:31.2706|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:19:31.2706|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:19:31.5596|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:31.5596|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:32.8136|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:19:32.8136|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:19:32.9447|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:32.9447|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:33.1827|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:33.1827|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:33.3800|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:33.3800|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:35.8007|INFO|GUI.MainWindow|Key pressed: LMenu
+2025-05-05 22:19:35.8007|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:19:36.0237|INFO|GUI.MainWindow|Key pressed: Alt+D3, Alt
+2025-05-05 22:19:36.0237|INFO|GUI.MainWindow|No macro matched for key: Alt+D3, Alt
+2025-05-05 22:19:36.2157|INFO|GUI.MainWindow|Key pressed: Alt+D3, Alt
+2025-05-05 22:19:36.2157|INFO|GUI.MainWindow|No macro matched for key: Alt+D3, Alt
+2025-05-05 22:19:36.4427|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:36.4427|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:19:36.6167|INFO|GUI.MainWindow|Key pressed: Alt+D2, Alt
+2025-05-05 22:19:36.6167|INFO|GUI.MainWindow|No macro matched for key: Alt+D2, Alt
+2025-05-05 22:20:55.2246|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:55.2246|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:55.3870|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:55.3870|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:55.5450|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:55.5450|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:55.7040|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:55.7040|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:55.8701|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:55.8701|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:56.0060|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:20:56.0060|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:20:58.4010|INFO|GUI.MainWindow|Normalized key pressed: Up
+2025-05-05 22:20:58.4010|INFO|GUI.MainWindow|No macro matched for key: Up
+2025-05-05 22:20:58.5761|INFO|GUI.MainWindow|Normalized key pressed: Enter
+2025-05-05 22:20:58.5761|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:20:59.9111|INFO|GUI.MainWindow|Normalized key pressed: Enter
+2025-05-05 22:20:59.9111|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:21:02.7841|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:02.7841|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:03.2701|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:03.2701|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:03.4712|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:03.4712|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:03.4712|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:03.4712|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:08.4292|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:08.4292|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:08.5393|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:08.5393|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:08.5393|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:08.5393|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:09.5082|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:09.5082|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:09.5862|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:09.5862|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:09.5862|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:09.5862|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:09.9762|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:09.9762|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:09.9762|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:09.9762|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:10.2841|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:10.2841|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:10.2841|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:10.2841|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:15.2533|INFO|GUI.MainWindow|Normalized key pressed: LControlKey
+2025-05-05 22:21:15.2533|INFO|GUI.MainWindow|No macro matched for key: LControlKey
+2025-05-05 22:21:15.3523|INFO|GUI.MainWindow|Normalized key pressed: Ctrl+C
+2025-05-05 22:21:15.3523|INFO|GUI.MainWindow|No macro matched for key: Ctrl+C
+2025-05-05 22:21:15.9146|INFO|GUI.MainWindow|Normalized key pressed: LControlKey
+2025-05-05 22:21:15.9146|INFO|GUI.MainWindow|No macro matched for key: LControlKey
+2025-05-05 22:21:15.9743|INFO|GUI.MainWindow|Normalized key pressed: Ctrl+V
+2025-05-05 22:21:15.9743|INFO|GUI.MainWindow|No macro matched for key: Ctrl+V
+2025-05-05 22:21:16.5143|INFO|GUI.MainWindow|Normalized key pressed: Enter
+2025-05-05 22:21:16.5143|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:21:16.7813|INFO|GUI.MainWindow|Normalized key pressed: S
+2025-05-05 22:21:16.7813|INFO|GUI.MainWindow|No macro matched for key: S
+2025-05-05 22:21:16.8353|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:21:16.8353|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:21:16.8783|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:16.8783|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:16.9434|INFO|GUI.MainWindow|Normalized key pressed: L
+2025-05-05 22:21:16.9434|INFO|GUI.MainWindow|No macro matched for key: L
+2025-05-05 22:21:17.0903|INFO|GUI.MainWindow|Normalized key pressed: O
+2025-05-05 22:21:17.0903|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:21:17.1443|INFO|GUI.MainWindow|Normalized key pressed: G
+2025-05-05 22:21:17.1443|INFO|GUI.MainWindow|No macro matched for key: G
+2025-05-05 22:21:17.2454|INFO|GUI.MainWindow|Normalized key pressed: U
+2025-05-05 22:21:17.2454|INFO|GUI.MainWindow|No macro matched for key: U
+2025-05-05 22:21:17.2963|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:21:17.2963|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:21:17.3383|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:21:17.3383|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:21:17.3743|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:17.3743|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:17.4595|INFO|GUI.MainWindow|Normalized key pressed: P
+2025-05-05 22:21:17.4595|INFO|GUI.MainWindow|No macro matched for key: P
+2025-05-05 22:21:17.5153|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:21:17.5153|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:21:17.5893|INFO|GUI.MainWindow|Normalized key pressed: R
+2025-05-05 22:21:17.5893|INFO|GUI.MainWindow|No macro matched for key: R
+2025-05-05 22:21:17.6183|INFO|GUI.MainWindow|Normalized key pressed: O
+2025-05-05 22:21:17.6183|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:21:17.6663|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:17.6663|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:17.7793|INFO|GUI.MainWindow|Normalized key pressed: N
+2025-05-05 22:21:17.7793|INFO|GUI.MainWindow|No macro matched for key: N
+2025-05-05 22:21:17.9224|INFO|GUI.MainWindow|Normalized key pressed: O
+2025-05-05 22:21:17.9224|INFO|GUI.MainWindow|No macro matched for key: O
+2025-05-05 22:21:17.9783|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:17.9783|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:18.0753|INFO|GUI.MainWindow|Normalized key pressed: M
+2025-05-05 22:21:18.0753|INFO|GUI.MainWindow|No macro matched for key: M
+2025-05-05 22:21:18.1333|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:21:18.1333|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:21:18.1903|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:18.1903|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:18.2443|INFO|GUI.MainWindow|Normalized key pressed: F
+2025-05-05 22:21:18.2443|INFO|GUI.MainWindow|No macro matched for key: F
+2025-05-05 22:21:18.2913|INFO|GUI.MainWindow|Normalized key pressed: U
+2025-05-05 22:21:18.2913|INFO|GUI.MainWindow|No macro matched for key: U
+2025-05-05 22:21:18.4343|INFO|GUI.MainWindow|Normalized key pressed: N
+2025-05-05 22:21:18.4343|INFO|GUI.MainWindow|No macro matched for key: N
+2025-05-05 22:21:18.4763|INFO|GUI.MainWindow|Normalized key pressed: C
+2025-05-05 22:21:18.4763|INFO|GUI.MainWindow|No macro matched for key: C
+2025-05-05 22:21:18.5073|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:21:18.5073|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:21:18.5443|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:18.5443|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:18.6163|INFO|GUI.MainWindow|Normalized key pressed: L
+2025-05-05 22:21:18.6163|INFO|GUI.MainWindow|No macro matched for key: L
+2025-05-05 22:21:18.6823|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:21:18.6823|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:21:18.7263|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:18.7263|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:18.7833|INFO|GUI.MainWindow|Normalized key pressed: P
+2025-05-05 22:21:18.7833|INFO|GUI.MainWindow|No macro matched for key: P
+2025-05-05 22:21:18.9363|INFO|GUI.MainWindow|Normalized key pressed: U
+2025-05-05 22:21:18.9363|INFO|GUI.MainWindow|No macro matched for key: U
+2025-05-05 22:21:18.9543|INFO|GUI.MainWindow|Normalized key pressed: T
+2025-05-05 22:21:18.9543|INFO|GUI.MainWindow|No macro matched for key: T
+2025-05-05 22:21:19.0233|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:21:19.0233|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:21:19.0433|INFO|GUI.MainWindow|Normalized key pressed: Space
+2025-05-05 22:21:19.0433|INFO|GUI.MainWindow|No macro matched for key: Space
+2025-05-05 22:21:19.1214|INFO|GUI.MainWindow|Normalized key pressed: M
+2025-05-05 22:21:19.1214|INFO|GUI.MainWindow|No macro matched for key: M
+2025-05-05 22:21:19.1884|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:21:19.1884|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:21:19.2554|INFO|GUI.MainWindow|Normalized key pressed: D
+2025-05-05 22:21:19.2554|INFO|GUI.MainWindow|No macro matched for key: D
+2025-05-05 22:21:19.4214|INFO|GUI.MainWindow|Normalized key pressed: R
+2025-05-05 22:21:19.4214|INFO|GUI.MainWindow|No macro matched for key: R
+2025-05-05 22:21:19.4554|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:21:19.4554|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:21:19.4993|INFO|GUI.MainWindow|Normalized key pressed: Enter
+2025-05-05 22:21:19.4993|INFO|GUI.MainWindow|No macro matched for key: Enter
+2025-05-05 22:21:36.3026|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:36.3026|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:36.6066|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:36.6066|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:36.6066|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:36.6066|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:37.1536|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:37.1536|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:37.2406|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:37.2406|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:37.2406|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:37.2406|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:37.5518|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:37.5518|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:37.5518|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:37.5518|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:37.8615|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:37.8615|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:37.8615|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:37.8615|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:38.1720|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:38.1720|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:38.1720|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:38.1720|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:38.4817|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:21:38.4817|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:21:38.4817|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:21:38.4817|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:38.7941|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:38.7941|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:38.7941|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:38.7941|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:39.1050|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:39.1050|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:39.1050|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:39.1050|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:39.4190|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:39.4190|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:39.4190|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:39.4190|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:42.4702|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:43.0092|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:43.9366|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:44.4976|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:44.9732|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:45.2248|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:45.7420|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:45.9210|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:46.9238|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:47.0615|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:47.9268|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:48.0617|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:48.9700|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:49.2122|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:49.7320|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:49.8566|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:50.2838|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:50.3933|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:50.7646|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:50.9001|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:51.6728|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:51.8926|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:52.3081|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:52.4216|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:21:53.6950|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:53.8088|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:54.2380|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:54.6297|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:55.5710|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:21:55.5710|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:21:55.8189|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:21:55.8189|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:21:55.8189|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:21:55.8189|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:21:56.7151|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:21:57.1193|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:23:54.2979|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:23:54.3046|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:54.4481|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:23:56.5688|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:23:56.5688|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:56.6949|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:23:57.5509|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:23:57.5509|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7669|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7694|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:23:57.7694|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:23:57.7694|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:04.8310|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:04.8310|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:04.9740|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5030|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:05.5039|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:15.8741|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:15.8741|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0031|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.0042|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:16.3571|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:20.3892|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:24:20.3892|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:24:20.4862|INFO|GUI.MainWindow|Normalized key pressed: S
+2025-05-05 22:24:20.4862|INFO|GUI.MainWindow|No macro matched for key: S
+2025-05-05 22:24:20.5683|INFO|GUI.MainWindow|Normalized key pressed: D
+2025-05-05 22:24:20.5683|INFO|GUI.MainWindow|No macro matched for key: D
+2025-05-05 22:24:20.6702|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:24:20.6702|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:24:20.7573|INFO|GUI.MainWindow|Normalized key pressed: W
+2025-05-05 22:24:20.7573|INFO|GUI.MainWindow|No macro matched for key: W
+2025-05-05 22:24:20.8213|INFO|GUI.MainWindow|Normalized key pressed: D
+2025-05-05 22:24:20.8213|INFO|GUI.MainWindow|No macro matched for key: D
+2025-05-05 22:24:20.9192|INFO|GUI.MainWindow|Normalized key pressed: A
+2025-05-05 22:24:20.9192|INFO|GUI.MainWindow|No macro matched for key: A
+2025-05-05 22:24:20.9763|INFO|GUI.MainWindow|Normalized key pressed: W
+2025-05-05 22:24:20.9763|INFO|GUI.MainWindow|No macro matched for key: W
+2025-05-05 22:24:20.9932|INFO|GUI.MainWindow|Normalized key pressed: S
+2025-05-05 22:24:20.9932|INFO|GUI.MainWindow|No macro matched for key: S
+2025-05-05 22:24:21.2532|INFO|GUI.MainWindow|Normalized key pressed: LControlKey
+2025-05-05 22:24:21.2532|INFO|GUI.MainWindow|No macro matched for key: LControlKey
+2025-05-05 22:24:21.3183|INFO|GUI.MainWindow|Normalized key pressed: Ctrl+A
+2025-05-05 22:24:21.3183|INFO|GUI.MainWindow|No macro matched for key: Ctrl+A
+2025-05-05 22:24:21.4142|INFO|GUI.MainWindow|Normalized key pressed: Back
+2025-05-05 22:24:21.4142|INFO|GUI.MainWindow|No macro matched for key: Back
+2025-05-05 22:24:31.2354|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:31.2354|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:31.5054|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:32.3834|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:32.3834|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:32.6214|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:34.3634|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:34.3634|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:34.5944|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:35.4395|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:24:35.4395|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5967|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Normalized key pressed: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|No macro matched for key: Alt+Packet
+2025-05-05 22:24:35.5975|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:26:09.6181|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:26:09.6181|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:26:09.8960|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:09.8960|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:26:11.3981|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:26:11.3981|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:11.7500|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:26:12.4121|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:26:12.4121|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:26:12.5320|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:26:12.5320|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:28:46.8493|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:28:46.8493|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:28:47.0065|INFO|GUI.MainWindow|Normalized key pressed: 2
+2025-05-05 22:28:47.0065|INFO|GUI.MainWindow|No macro matched for key: 2
+2025-05-05 22:28:50.1305|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:28:50.1305|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:28:50.3945|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:28:50.3945|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:28:50.3945|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:28:50.3945|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:28:50.3952|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:50.3952|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:28:51.0266|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:28:51.0266|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:28:51.1125|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:28:51.1125|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:28:51.1125|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:28:51.1125|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:28:51.1125|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:28:51.1125|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:28:51.1131|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:28:51.1131|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:28:51.1131|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:29:21.1685|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:21.1775|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:21.3100|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:21.3100|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:21.3100|INFO|GUI.MainWindow|Normalized key pressed: Alt+4
+2025-05-05 22:29:21.3100|INFO|GUI.MainWindow|No macro matched for key: Alt+4
+2025-05-05 22:29:21.8809|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:21.8809|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:22.0100|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:22.0100|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:23.2970|INFO|GUI.MainWindow|Normalized key pressed: K
+2025-05-05 22:29:23.2970|INFO|GUI.MainWindow|No macro matched for key: K
+2025-05-05 22:29:23.3830|INFO|GUI.MainWindow|Normalized key pressed: E
+2025-05-05 22:29:23.3830|INFO|GUI.MainWindow|No macro matched for key: E
+2025-05-05 22:29:23.4641|INFO|GUI.MainWindow|Normalized key pressed: Y
+2025-05-05 22:29:23.4641|INFO|GUI.MainWindow|No macro matched for key: Y
+2025-05-05 22:29:26.9911|INFO|GUI.MainWindow|Normalized key pressed: T
+2025-05-05 22:29:26.9911|INFO|GUI.MainWindow|No macro matched for key: T
+2025-05-05 22:29:31.7572|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:31.7572|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:31.9041|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:31.9041|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:32.7862|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:32.7862|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:32.9556|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:32.9556|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:33.1461|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:33.1461|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:33.3374|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:33.3374|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:33.5122|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:33.5122|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:34.3022|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:34.3022|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:34.3992|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:34.3992|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:34.5995|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:34.5995|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:34.7643|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:34.7643|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:34.9352|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:34.9352|INFO|GUI.MainWindow|No macro matched for key: Alt+3
+2025-05-05 22:29:52.9068|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:29:52.9157|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:29:53.0326|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.0326|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.0326|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.0326|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.0326|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:53.2485|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.2485|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.2485|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.2485|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.2485|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:53.4415|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.4415|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.4415|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.4415|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.4415|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:53.6146|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.6146|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.6146|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.6146|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.6146|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:53.7767|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.7767|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.7767|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.7767|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.7767|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:53.9335|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:53.9335|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:53.9335|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:53.9335|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:53.9335|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:29:54.0886|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:29:54.0886|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:29:54.0886|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:29:54.0886|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:29:54.0886|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:30:05.1181|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:30:05.1181|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:30:05.2507|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:30:05.2507|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.2507|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.2507|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.2507|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.2507|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.2540|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.2540|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.2540|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.4287|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.5367|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.5367|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.6736|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.6736|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6736|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.6736|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.6736|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6755|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6755|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.6755|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.7588|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.7588|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:30:05.8617|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:30:05.8617|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:30:05.8617|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8617|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8632|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:30:05.8632|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:30:05.8632|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:30:05.8632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:30:05.8632|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:26.0559|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:31:26.0559|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:26.1860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:26.1860|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:26.9630|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:31:26.9630|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:31:27.4723|INFO|GUI.MainWindow|Normalized key pressed: Alt+LMenu
+2025-05-05 22:31:27.4723|INFO|GUI.MainWindow|No macro matched for key: Alt+LMenu
+2025-05-05 22:31:27.5032|INFO|GUI.MainWindow|Normalized key pressed: Alt+LMenu
+2025-05-05 22:31:27.5032|INFO|GUI.MainWindow|No macro matched for key: Alt+LMenu
+2025-05-05 22:31:27.5339|INFO|GUI.MainWindow|Normalized key pressed: Alt+LMenu
+2025-05-05 22:31:27.5339|INFO|GUI.MainWindow|No macro matched for key: Alt+LMenu
+2025-05-05 22:31:27.7880|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:31:27.7880|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.0050|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:28.3280|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:28.3280|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:28.6500|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:28.6500|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:28.6500|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:28.6500|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:28.6500|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.0780|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:29.2420|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:29.2420|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:29.2420|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:29.2420|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:29.2420|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.3724|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.4980|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.4980|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.6860|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.7730|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.7730|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:29.9750|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:30.4510|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:31:30.4510|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.6480|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.8270|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:30.9860|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9860|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:30.9886|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.1470|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:31.3450|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.3450|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:31.5080|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.5080|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:31.6850|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.6850|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:31.8520|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:31.8520|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.0390|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.2011|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.3510|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.5150|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.6640|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.8310|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.8310|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.8310|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8310|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8323|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.8323|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.8323|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.8323|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8323|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8323|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.8323|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:32.9890|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.1570|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:33.5211|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.5211|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:33.6872|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.6872|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:33.8501|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:33.8501|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:34.1391|INFO|GUI.MainWindow|Normalized key pressed: LMenu
+2025-05-05 22:31:34.1391|INFO|GUI.MainWindow|No macro matched for key: LMenu
+2025-05-05 22:31:34.2151|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:34.2151|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:34.2151|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:34.2151|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:34.2151|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:34.4371|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:34.4371|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:34.4371|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:34.4371|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:34.4371|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.7271|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:34.8381|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:34.8381|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:34.9401|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:34.9401|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:34.9401|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:34.9401|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:34.9401|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.0411|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.1191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.1191|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.1841|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:35.1841|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:35.1841|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:35.1841|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:35.1841|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.2931|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.3632|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.3632|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.4135|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:35.4135|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:35.4135|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:35.4135|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:35.4135|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Normalized key pressed: Alt+1
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Macro triggered: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Executing macro: asdaw (Key: Alt+1)
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5191|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Normalized key pressed: Alt+2
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Macro triggered: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Executing macro: asdasd (Key: Alt+2)
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulating typing: 123
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Attempting to simulate typing: 123
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulated typing: 123
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulating typing: 12
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Attempting to simulate typing: 12
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulated typing: 12
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulating typing: 1
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Attempting to simulate typing: 1
+2025-05-05 22:31:35.5359|WARN|GUI.MainWindow|Packet key detected. Ignoring this key press.
+2025-05-05 22:31:35.5359|INFO|GUI.MainWindow|Simulated typing: 1
+2025-05-05 22:31:35.6281|INFO|GUI.MainWindow|Normalized key pressed: Alt+3
+2025-05-05 22:31:35.6281|INFO|GUI.MainWindow|Macro triggered: key (Key: Alt+3)
+2025-05-05 22:31:35.6281|INFO|GUI.MainWindow|Executing macro: key (Key: Alt+3)
+2025-05-05 22:31:35.6281|INFO|GUI.MainWindow|Simulating key press: T
+2025-05-05 22:31:35.6281|WARN|GUI.MainWindow|Invalid key: T. Could not simulate key press.

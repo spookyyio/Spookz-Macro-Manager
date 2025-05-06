@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Macro Manager" MinHeight="500" MaxHeight="500" MinWidth="400" MaxWidth="400">
     <Grid>
-        <ListBox x:Name="macrolist" HorizontalAlignment="Left" Height="242" Margin="16,19,0,0" VerticalAlignment="Top" Width="234" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="macrolist_SelectionChanged"/>
+        <ListBox x:Name="macrolist" DisplayMemberPath="Name" HorizontalAlignment="Left" Height="242" Margin="16,19,0,0" VerticalAlignment="Top" Width="234" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="macrolist_SelectionChanged"/>
         <Button x:Name="addmacro" Content="Add Macro" HorizontalAlignment="Center" Height="23" Margin="255,19,0,0" VerticalAlignment="Top" Width="120" Click="addmacro_Click"/>
         <Button x:Name="deletemacro" Content="Delete Macro" HorizontalAlignment="Center" Height="21" Margin="255,47,0,0" VerticalAlignment="Top" Width="120" Click="deletemacro_Click"/>
         <Button x:Name="editmacro" Content="Edit Macro" HorizontalAlignment="Center" Height="21" Margin="255,73,0,0" VerticalAlignment="Top" Width="120" Click="editmacro_Click"/>

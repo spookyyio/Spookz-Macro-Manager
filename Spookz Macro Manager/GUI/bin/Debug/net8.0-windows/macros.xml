@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfMacro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Macro>
-    <Name>asdasd (Key: Alt+2)</Name>
+    <Name>asdaw (Key: Alt+1)</Name>
+    <MacroKey>Alt+1</MacroKey>
     <Steps>
       <MacroStep>
         <Action>Type</Action>
-        <Text>asdasd</Text>
+        <Text>1</Text>
       </MacroStep>
       <MacroStep>
         <Action>Type</Action>
-        <Text>asdasd</Text>
+        <Text>12</Text>
       </MacroStep>
       <MacroStep>
         <Action>Type</Action>
-        <Text>asdasd</Text>
+        <Text>123</Text>
       </MacroStep>
     </Steps>
   </Macro>
   <Macro>
     <Name>asdasd (Key: Alt+2)</Name>
+    <MacroKey>Alt+2</MacroKey>
+    <Steps>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>123</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>12</Text>
+      </MacroStep>
+      <MacroStep>
+        <Action>Type</Action>
+        <Text>1</Text>
+      </MacroStep>
+    </Steps>
+  </Macro>
+  <Macro>
+    <Name>key (Key: Alt+3)</Name>
+    <MacroKey>Alt+3</MacroKey>
     <Steps>
       <MacroStep>
         <Action>Press Key</Action>
-        <Key>A</Key>
-      </MacroStep>
-      <MacroStep>
-        <Action>Type</Action>
-        <Text>asd</Text>
-      </MacroStep>
-      <MacroStep>
-        <Action>Type</Action>
-        <Text>asd</Text>
+        <Key>T</Key>
       </MacroStep>
     </Steps>
   </Macro>

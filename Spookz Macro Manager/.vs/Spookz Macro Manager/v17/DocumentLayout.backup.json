@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\gui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\createmacro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\createmacro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\createmacro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\createmacro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|c:\\users\\fasan\\documents\\github\\spookz-macro-manager\\spookz macro manager\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428D9603-8B8E-4118-B167-0DF9962B822C}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +38,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\NLog.config",
+              "RelativeDocumentMoniker": "GUI\\NLog.config",
+              "ToolTip": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\NLog.config",
+              "RelativeToolTip": "GUI\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T02:15:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI",
+              "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T01:58:36.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateMacro.xaml.cs",
               "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\CreateMacro.xaml.cs",
               "RelativeDocumentMoniker": "GUI\\CreateMacro.xaml.cs",
               "ToolTip": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\CreateMacro.xaml.cs",
               "RelativeToolTip": "GUI\\CreateMacro.xaml.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwIkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAowHcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T03:07:46.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateMacro.xaml",
               "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\CreateMacro.xaml",
               "RelativeDocumentMoniker": "GUI\\CreateMacro.xaml",
@@ -59,25 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\MainWindow.xaml",
-              "RelativeToolTip": "GUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-02T02:33:28.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\fasan\\Documents\\GitHub\\Spookz-Macro-Manager\\Spookz Macro Manager\\GUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "GUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAswKoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T02:33:26.333Z",
               "EditorCaption": ""
